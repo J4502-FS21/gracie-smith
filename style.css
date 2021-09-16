@@ -30,6 +30,9 @@ h3 {
     font-weight: 400;
     font-size: 35px;
 }
+ul li {
+  list-style: none;
+}
 a:link {
   font-family: 'Raleway', sans-serif;
   color: #3944BC;
