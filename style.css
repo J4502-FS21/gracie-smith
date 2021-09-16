@@ -1,0 +1,59 @@
+body {
+  background: #F25278;
+  width: 60%;
+  max-width: 700px;
+  position: absolute;
+  left: 350px;
+  margin: auto;
+  margin-top: -10px;
+  font-family: 'Coming Soon', cursive;
+  font-size: 20px;
+  text-align: center;
+}
+
+img {border:0;}
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: #F9E076;
+    font-weight: 700;
+    font-size: 70px;
+}
+h2 {
+    font-family: 'Playfair Display', serif;
+    color: #F9E076;
+    font-weight: 500;
+    font-size: 35px;
+}
+h3 {
+    font-family: 'Playfair Display', serif;
+    color: #F9E076;
+    font-weight: 400;
+    font-size: 35px;
+}
+a:link {
+  font-family: 'Raleway', sans-serif;
+  color: #3944BC;
+  font-weight: 500;
+  font-size: 20px;
+}
+a:visited {
+  font-family: 'Raleway', sans-serif;
+  color: #016064;
+  font-weight: 500;
+  font-size: 20px;
+}
+a:hover {
+  font-family: 'Raleway', sans-serif;
+  color: #290916;
+  font-weight: 500;
+  font-size: 20px;
+}
+a:active {
+  font-family: 'Raleway', sans-serif;
+  color: #52B2BF;
+  font-weight: 500;
+  font-size: 20px;
+}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Coming+Soon&family=Playfair+Display:wght@400;500;600;700;800;900&family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
